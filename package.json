@@ -1,0 +1,25 @@
+{
+  "name": "sao-qms",
+  "version": "0.0.0",
+  "description": "The starter template for QMS system",
+  "repository": {
+    "url": "kirill zaidulin/sao-qms",
+    "type": "git"
+  },
+  "author": "kirill zaidulin <zaidulinkirill@gmail.com> (github.com/kirill zaidulin)",
+  "license": "MIT",
+  "files": [
+    "saofile.js",
+    "template"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "superb": "^1.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "sao": "^1.0.0"
+  }
+}
